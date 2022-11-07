@@ -38,6 +38,9 @@ It is a [Maven](https://maven.apache.org/) based project, so you can open this p
 ** **
 **Emits the synthesized CloudFormation template**
 
+
+* [Json file]( https://github.com/julian36alvarez/AygoTaller3/blob/master/src/main/resources/CdkAygoStack.template.json)
+
 ![img.png](img.png)
 ** **
 **Deploy this stack to your default AWS account/region**
